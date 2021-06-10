@@ -1,3 +1,9 @@
+/*	Hankel Haldin
+*	Databases
+*	Lab 1 Query 2
+*	Due: 6/11/2021
+*	Desc: Output the BARCODE and the PRODDESC for each product that has been purchased by at *	 least  two customers*/
+
 #include <iostream>
 #include <map>
 #include "LineItemTable.h"
